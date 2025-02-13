@@ -1,16 +1,15 @@
-# all_calculators_ass02_02
+This Project contain all these calculators in one app:
 
-A new Flutter project.
+Friendship Calculator
+Currency Convertor
+Temperature Convertor
+BMI Calculator
+Length Converter
+Area Converter
+Volume Converter
+Weight and Mass Converter
+Time Convertor (Belgium Time to Pakistan Time)
+Age Calculator
+Time Converter (H to M or M to Sec )
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Good App!!
